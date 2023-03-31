@@ -1,0 +1,12 @@
+﻿<div class="d-flex justify-content-end">
+    @if (SignInManager.IsSignedIn(User))
+    {
+        <span>@User.Identity!.Name</span>
+        <a asp-action="index" asp-controller="account" class="m-2">Mitt konto</a>
+        <a asp-action="logout" asp-controller="account" class="m-2">Logga ut</a>
+    } else
+    {
+        <a asp-action="register" asp-controller="account" class="m-2">Registrera</a>
+        <a asp-action="login" asp-controller="account" class="m-2">Logga in</a>
+    }
+</div>

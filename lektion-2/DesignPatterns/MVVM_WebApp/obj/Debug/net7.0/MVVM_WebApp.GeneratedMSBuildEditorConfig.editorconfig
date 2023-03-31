@@ -20,12 +20,20 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/HansMattin-Lassei/Documents/Education/CMS22/cms22-object-oriented-analysis-design/lektion-2/DesignPatterns/MVVM_WebApp/Views/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/HansMattin-Lassei/Documents/Education/CMS22/cms22-object-oriented-analysis-design/lektion-2/DesignPatterns/MVVM_WebApp/Views/Account/Register.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/HansMattin-Lassei/Documents/Education/CMS22/cms22-object-oriented-analysis-design/lektion-2/DesignPatterns/MVVM_WebApp/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HansMattin-Lassei/Documents/Education/CMS22/cms22-object-oriented-analysis-design/lektion-2/DesignPatterns/MVVM_WebApp/Views/Partials/_Header.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFydGlhbHNcX0hlYWRlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/HansMattin-Lassei/Documents/Education/CMS22/cms22-object-oriented-analysis-design/lektion-2/DesignPatterns/MVVM_WebApp/Views/Shared/_Layout.cshtml]

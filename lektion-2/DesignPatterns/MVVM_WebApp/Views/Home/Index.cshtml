@@ -1,3 +1,8 @@
-﻿<div>
-    <a asp-action="register" asp-controller="account">Registrera</a>
+﻿@model User
+
+<div>
+    <a asp-action="register" asp-controller="account" class="m-3">Registrera</a>
+    <a asp-action="login" asp-controller="account" class="m-3">Logga in</a>
 </div>
+
+<partial name="/Views/Partials/_Header.cshtml" model="Model" />
