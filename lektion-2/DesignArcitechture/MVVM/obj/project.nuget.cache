@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "652JNFOoNBARCFqRaps3cOVi/XAP9hc9U722YjJQQJ/W7gCZBW/ycXiy6gbW/qa7ECSFpyD0YDVy3IAL6LZDVg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HansMattin-Lassei\\Documents\\Education\\CMS22\\cms22-object-oriented-analysis-design\\lektion-2\\DesignArcitechture\\MVVM\\MVVM.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HansMattin-Lassei\\.nuget\\packages\\communitytoolkit.mvvm\\8.1.0\\communitytoolkit.mvvm.8.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

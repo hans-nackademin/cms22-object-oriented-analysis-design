@@ -1,0 +1,12 @@
+C:\Users\HansMattin-Lassei\Documents\Education\CMS22\cms22-object-oriented-analysis-design\lektion-1\MVVM\WpfApp.Library\bin\Debug\net7.0-windows\WpfApp.Library.deps.json
+C:\Users\HansMattin-Lassei\Documents\Education\CMS22\cms22-object-oriented-analysis-design\lektion-1\MVVM\WpfApp.Library\bin\Debug\net7.0-windows\WpfApp.Library.dll
+C:\Users\HansMattin-Lassei\Documents\Education\CMS22\cms22-object-oriented-analysis-design\lektion-1\MVVM\WpfApp.Library\bin\Debug\net7.0-windows\WpfApp.Library.pdb
+C:\Users\HansMattin-Lassei\Documents\Education\CMS22\cms22-object-oriented-analysis-design\lektion-1\MVVM\WpfApp.Library\obj\Debug\net7.0-windows\WpfApp.Library.csproj.AssemblyReference.cache
+C:\Users\HansMattin-Lassei\Documents\Education\CMS22\cms22-object-oriented-analysis-design\lektion-1\MVVM\WpfApp.Library\obj\Debug\net7.0-windows\WpfApp.Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HansMattin-Lassei\Documents\Education\CMS22\cms22-object-oriented-analysis-design\lektion-1\MVVM\WpfApp.Library\obj\Debug\net7.0-windows\WpfApp.Library.AssemblyInfoInputs.cache
+C:\Users\HansMattin-Lassei\Documents\Education\CMS22\cms22-object-oriented-analysis-design\lektion-1\MVVM\WpfApp.Library\obj\Debug\net7.0-windows\WpfApp.Library.AssemblyInfo.cs
+C:\Users\HansMattin-Lassei\Documents\Education\CMS22\cms22-object-oriented-analysis-design\lektion-1\MVVM\WpfApp.Library\obj\Debug\net7.0-windows\WpfApp.Library.csproj.CoreCompileInputs.cache
+C:\Users\HansMattin-Lassei\Documents\Education\CMS22\cms22-object-oriented-analysis-design\lektion-1\MVVM\WpfApp.Library\obj\Debug\net7.0-windows\WpfApp.Library.dll
+C:\Users\HansMattin-Lassei\Documents\Education\CMS22\cms22-object-oriented-analysis-design\lektion-1\MVVM\WpfApp.Library\obj\Debug\net7.0-windows\refint\WpfApp.Library.dll
+C:\Users\HansMattin-Lassei\Documents\Education\CMS22\cms22-object-oriented-analysis-design\lektion-1\MVVM\WpfApp.Library\obj\Debug\net7.0-windows\WpfApp.Library.pdb
+C:\Users\HansMattin-Lassei\Documents\Education\CMS22\cms22-object-oriented-analysis-design\lektion-1\MVVM\WpfApp.Library\obj\Debug\net7.0-windows\ref\WpfApp.Library.dll

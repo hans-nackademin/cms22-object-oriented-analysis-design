@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/DBgChgmMZxVyv1qNF2pBhrhFwfiah3zWIV6790t5+UumD+twPXfpyZTcoiYx6GioUUhoo0pFLyuVgj3oYM/hA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HansMattin-Lassei\\Documents\\Education\\CMS22\\cms22-object-oriented-analysis-design\\lektion-1\\MVVM\\WpfApp.Library\\WpfApp.Library.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HansMattin-Lassei\\.nuget\\packages\\communitytoolkit.mvvm\\8.1.0\\communitytoolkit.mvvm.8.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

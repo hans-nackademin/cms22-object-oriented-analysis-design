@@ -1,0 +1,19 @@
+﻿@using WebApp.Library.Models;
+@model Company
+
+<div class="mb-3">
+    <div>@ViewData["Title"]</div>
+    <div>@TempData["SubTitle"]</div>
+</div>
+<div class="mb-3">
+    <div>@ViewBag.Title</div>
+    <div>@ViewBag.Company.CompanyName</div>
+</div>
+
+<div class="mb-3">
+    <div>@Model.CompanyName</div>
+    <div>@Model.Email</div>
+</div>
+
+<div>PARTIALS</div>
+<partial name="/Views/Partials/_Example.cshtml" model="@Model" />

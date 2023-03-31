@@ -1,0 +1,12 @@
+C:\Users\HansMattin-Lassei\Documents\Education\CMS22\cms22-object-oriented-analysis-design\lektion-1\MVC\WebApp.Library\bin\Debug\net7.0\WebApp.Library.deps.json
+C:\Users\HansMattin-Lassei\Documents\Education\CMS22\cms22-object-oriented-analysis-design\lektion-1\MVC\WebApp.Library\bin\Debug\net7.0\WebApp.Library.dll
+C:\Users\HansMattin-Lassei\Documents\Education\CMS22\cms22-object-oriented-analysis-design\lektion-1\MVC\WebApp.Library\bin\Debug\net7.0\WebApp.Library.pdb
+C:\Users\HansMattin-Lassei\Documents\Education\CMS22\cms22-object-oriented-analysis-design\lektion-1\MVC\WebApp.Library\obj\Debug\net7.0\WebApp.Library.csproj.AssemblyReference.cache
+C:\Users\HansMattin-Lassei\Documents\Education\CMS22\cms22-object-oriented-analysis-design\lektion-1\MVC\WebApp.Library\obj\Debug\net7.0\WebApp.Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HansMattin-Lassei\Documents\Education\CMS22\cms22-object-oriented-analysis-design\lektion-1\MVC\WebApp.Library\obj\Debug\net7.0\WebApp.Library.AssemblyInfoInputs.cache
+C:\Users\HansMattin-Lassei\Documents\Education\CMS22\cms22-object-oriented-analysis-design\lektion-1\MVC\WebApp.Library\obj\Debug\net7.0\WebApp.Library.AssemblyInfo.cs
+C:\Users\HansMattin-Lassei\Documents\Education\CMS22\cms22-object-oriented-analysis-design\lektion-1\MVC\WebApp.Library\obj\Debug\net7.0\WebApp.Library.csproj.CoreCompileInputs.cache
+C:\Users\HansMattin-Lassei\Documents\Education\CMS22\cms22-object-oriented-analysis-design\lektion-1\MVC\WebApp.Library\obj\Debug\net7.0\WebApp.Library.dll
+C:\Users\HansMattin-Lassei\Documents\Education\CMS22\cms22-object-oriented-analysis-design\lektion-1\MVC\WebApp.Library\obj\Debug\net7.0\refint\WebApp.Library.dll
+C:\Users\HansMattin-Lassei\Documents\Education\CMS22\cms22-object-oriented-analysis-design\lektion-1\MVC\WebApp.Library\obj\Debug\net7.0\WebApp.Library.pdb
+C:\Users\HansMattin-Lassei\Documents\Education\CMS22\cms22-object-oriented-analysis-design\lektion-1\MVC\WebApp.Library\obj\Debug\net7.0\ref\WebApp.Library.dll

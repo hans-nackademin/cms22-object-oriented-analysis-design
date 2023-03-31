@@ -1,0 +1,23 @@
+﻿@using MVC.Models;
+@model UserForm
+
+<div class="d-flex justify-content-center">
+
+    <form method="post" class="col-6">
+
+        <div class="mb-3">
+            <label asp-for="FirstName" class="form-label"></label>
+            <input asp-for="FirstName" class="form-control" />
+            <span asp-validation-for="FirstName" class="text-danger"></span>
+        </div>
+        
+        <div class="mb-3">
+            <label asp-for="LastName" class="form-label"></label>
+            <input asp-for="LastName" class="form-control" />
+            <span asp-validation-for="LastName" class="text-danger"></span>
+        </div>
+
+        <button type="submit" class="btn btn-secondary">SAVE</button>
+    </form>
+
+</div>

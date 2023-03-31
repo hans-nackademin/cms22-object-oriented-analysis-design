@@ -1,0 +1,12 @@
+C:\Users\HansMattin-Lassei\Documents\Education\CMS22\cms22-object-oriented-analysis-design\lektion-1\MVP\WinFormsApp.Library\bin\Debug\net7.0\WinFormsApp.Library.deps.json
+C:\Users\HansMattin-Lassei\Documents\Education\CMS22\cms22-object-oriented-analysis-design\lektion-1\MVP\WinFormsApp.Library\bin\Debug\net7.0\WinFormsApp.Library.dll
+C:\Users\HansMattin-Lassei\Documents\Education\CMS22\cms22-object-oriented-analysis-design\lektion-1\MVP\WinFormsApp.Library\bin\Debug\net7.0\WinFormsApp.Library.pdb
+C:\Users\HansMattin-Lassei\Documents\Education\CMS22\cms22-object-oriented-analysis-design\lektion-1\MVP\WinFormsApp.Library\obj\Debug\net7.0\WinFormsApp.Library.csproj.AssemblyReference.cache
+C:\Users\HansMattin-Lassei\Documents\Education\CMS22\cms22-object-oriented-analysis-design\lektion-1\MVP\WinFormsApp.Library\obj\Debug\net7.0\WinFormsApp.Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HansMattin-Lassei\Documents\Education\CMS22\cms22-object-oriented-analysis-design\lektion-1\MVP\WinFormsApp.Library\obj\Debug\net7.0\WinFormsApp.Library.AssemblyInfoInputs.cache
+C:\Users\HansMattin-Lassei\Documents\Education\CMS22\cms22-object-oriented-analysis-design\lektion-1\MVP\WinFormsApp.Library\obj\Debug\net7.0\WinFormsApp.Library.AssemblyInfo.cs
+C:\Users\HansMattin-Lassei\Documents\Education\CMS22\cms22-object-oriented-analysis-design\lektion-1\MVP\WinFormsApp.Library\obj\Debug\net7.0\WinFormsApp.Library.csproj.CoreCompileInputs.cache
+C:\Users\HansMattin-Lassei\Documents\Education\CMS22\cms22-object-oriented-analysis-design\lektion-1\MVP\WinFormsApp.Library\obj\Debug\net7.0\WinFormsApp.Library.dll
+C:\Users\HansMattin-Lassei\Documents\Education\CMS22\cms22-object-oriented-analysis-design\lektion-1\MVP\WinFormsApp.Library\obj\Debug\net7.0\refint\WinFormsApp.Library.dll
+C:\Users\HansMattin-Lassei\Documents\Education\CMS22\cms22-object-oriented-analysis-design\lektion-1\MVP\WinFormsApp.Library\obj\Debug\net7.0\WinFormsApp.Library.pdb
+C:\Users\HansMattin-Lassei\Documents\Education\CMS22\cms22-object-oriented-analysis-design\lektion-1\MVP\WinFormsApp.Library\obj\Debug\net7.0\ref\WinFormsApp.Library.dll

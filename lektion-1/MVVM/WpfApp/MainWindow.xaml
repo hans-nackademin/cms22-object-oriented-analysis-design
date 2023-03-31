@@ -1,0 +1,26 @@
+﻿<Window x:Class="WpfApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp"
+        mc:Ignorable="d"
+        xmlns:viewmodels="clr-namespace:WpfApp.Library.ViewModels;assembly=WpfApp.Library"
+        d:DataContext="{d:DesignInstance Type=viewmodels:CompanyFormViewModel}"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid Margin="20">
+        <StackPanel>
+            <StackPanel Margin="0 0 0 20">
+                <TextBlock Text="Company Name" />
+                <TextBox Text="{Binding CompanyName}" />
+                <TextBlock Text="{Binding CompanyName_Error}" />
+            </StackPanel>
+            <StackPanel Margin="0 0 0 20">
+                <TextBlock Text="Email" />
+                <TextBox Text="{Binding Email}" />
+                <TextBlock Text="{Binding Email_Error}" />
+            </StackPanel>
+            <Button Command="{Binding SaveCommand}" Content="SAVE" Padding="10"  />
+        </StackPanel>
+    </Grid>
+</Window>

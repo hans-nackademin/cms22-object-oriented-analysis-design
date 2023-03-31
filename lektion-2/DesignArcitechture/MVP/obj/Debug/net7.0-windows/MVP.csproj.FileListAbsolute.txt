@@ -1,0 +1,17 @@
+C:\Users\HansMattin-Lassei\Documents\Education\CMS22\cms22-object-oriented-analysis-design\lektion-2\DesignArcitechture\MVP\bin\Debug\net7.0-windows\MVP.exe
+C:\Users\HansMattin-Lassei\Documents\Education\CMS22\cms22-object-oriented-analysis-design\lektion-2\DesignArcitechture\MVP\bin\Debug\net7.0-windows\MVP.deps.json
+C:\Users\HansMattin-Lassei\Documents\Education\CMS22\cms22-object-oriented-analysis-design\lektion-2\DesignArcitechture\MVP\bin\Debug\net7.0-windows\MVP.runtimeconfig.json
+C:\Users\HansMattin-Lassei\Documents\Education\CMS22\cms22-object-oriented-analysis-design\lektion-2\DesignArcitechture\MVP\bin\Debug\net7.0-windows\MVP.dll
+C:\Users\HansMattin-Lassei\Documents\Education\CMS22\cms22-object-oriented-analysis-design\lektion-2\DesignArcitechture\MVP\bin\Debug\net7.0-windows\MVP.pdb
+C:\Users\HansMattin-Lassei\Documents\Education\CMS22\cms22-object-oriented-analysis-design\lektion-2\DesignArcitechture\MVP\obj\Debug\net7.0-windows\MVP.csproj.AssemblyReference.cache
+C:\Users\HansMattin-Lassei\Documents\Education\CMS22\cms22-object-oriented-analysis-design\lektion-2\DesignArcitechture\MVP\obj\Debug\net7.0-windows\MVP.Form1.resources
+C:\Users\HansMattin-Lassei\Documents\Education\CMS22\cms22-object-oriented-analysis-design\lektion-2\DesignArcitechture\MVP\obj\Debug\net7.0-windows\MVP.csproj.GenerateResource.cache
+C:\Users\HansMattin-Lassei\Documents\Education\CMS22\cms22-object-oriented-analysis-design\lektion-2\DesignArcitechture\MVP\obj\Debug\net7.0-windows\MVP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HansMattin-Lassei\Documents\Education\CMS22\cms22-object-oriented-analysis-design\lektion-2\DesignArcitechture\MVP\obj\Debug\net7.0-windows\MVP.AssemblyInfoInputs.cache
+C:\Users\HansMattin-Lassei\Documents\Education\CMS22\cms22-object-oriented-analysis-design\lektion-2\DesignArcitechture\MVP\obj\Debug\net7.0-windows\MVP.AssemblyInfo.cs
+C:\Users\HansMattin-Lassei\Documents\Education\CMS22\cms22-object-oriented-analysis-design\lektion-2\DesignArcitechture\MVP\obj\Debug\net7.0-windows\MVP.csproj.CoreCompileInputs.cache
+C:\Users\HansMattin-Lassei\Documents\Education\CMS22\cms22-object-oriented-analysis-design\lektion-2\DesignArcitechture\MVP\obj\Debug\net7.0-windows\MVP.dll
+C:\Users\HansMattin-Lassei\Documents\Education\CMS22\cms22-object-oriented-analysis-design\lektion-2\DesignArcitechture\MVP\obj\Debug\net7.0-windows\refint\MVP.dll
+C:\Users\HansMattin-Lassei\Documents\Education\CMS22\cms22-object-oriented-analysis-design\lektion-2\DesignArcitechture\MVP\obj\Debug\net7.0-windows\MVP.pdb
+C:\Users\HansMattin-Lassei\Documents\Education\CMS22\cms22-object-oriented-analysis-design\lektion-2\DesignArcitechture\MVP\obj\Debug\net7.0-windows\MVP.genruntimeconfig.cache
+C:\Users\HansMattin-Lassei\Documents\Education\CMS22\cms22-object-oriented-analysis-design\lektion-2\DesignArcitechture\MVP\obj\Debug\net7.0-windows\ref\MVP.dll
