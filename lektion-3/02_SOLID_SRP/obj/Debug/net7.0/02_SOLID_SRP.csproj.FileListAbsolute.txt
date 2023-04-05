@@ -1,0 +1,15 @@
+C:\Users\HansMattin-Lassei\Documents\Education\CMS22\cms22-object-oriented-analysis-design\lektion-3\02_SOLID_SRP\bin\Debug\net7.0\02_SOLID_SRP.exe
+C:\Users\HansMattin-Lassei\Documents\Education\CMS22\cms22-object-oriented-analysis-design\lektion-3\02_SOLID_SRP\bin\Debug\net7.0\02_SOLID_SRP.deps.json
+C:\Users\HansMattin-Lassei\Documents\Education\CMS22\cms22-object-oriented-analysis-design\lektion-3\02_SOLID_SRP\bin\Debug\net7.0\02_SOLID_SRP.runtimeconfig.json
+C:\Users\HansMattin-Lassei\Documents\Education\CMS22\cms22-object-oriented-analysis-design\lektion-3\02_SOLID_SRP\bin\Debug\net7.0\02_SOLID_SRP.dll
+C:\Users\HansMattin-Lassei\Documents\Education\CMS22\cms22-object-oriented-analysis-design\lektion-3\02_SOLID_SRP\bin\Debug\net7.0\02_SOLID_SRP.pdb
+C:\Users\HansMattin-Lassei\Documents\Education\CMS22\cms22-object-oriented-analysis-design\lektion-3\02_SOLID_SRP\obj\Debug\net7.0\02_SOLID_SRP.csproj.AssemblyReference.cache
+C:\Users\HansMattin-Lassei\Documents\Education\CMS22\cms22-object-oriented-analysis-design\lektion-3\02_SOLID_SRP\obj\Debug\net7.0\02_SOLID_SRP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HansMattin-Lassei\Documents\Education\CMS22\cms22-object-oriented-analysis-design\lektion-3\02_SOLID_SRP\obj\Debug\net7.0\02_SOLID_SRP.AssemblyInfoInputs.cache
+C:\Users\HansMattin-Lassei\Documents\Education\CMS22\cms22-object-oriented-analysis-design\lektion-3\02_SOLID_SRP\obj\Debug\net7.0\02_SOLID_SRP.AssemblyInfo.cs
+C:\Users\HansMattin-Lassei\Documents\Education\CMS22\cms22-object-oriented-analysis-design\lektion-3\02_SOLID_SRP\obj\Debug\net7.0\02_SOLID_SRP.csproj.CoreCompileInputs.cache
+C:\Users\HansMattin-Lassei\Documents\Education\CMS22\cms22-object-oriented-analysis-design\lektion-3\02_SOLID_SRP\obj\Debug\net7.0\02_SOLID_SRP.dll
+C:\Users\HansMattin-Lassei\Documents\Education\CMS22\cms22-object-oriented-analysis-design\lektion-3\02_SOLID_SRP\obj\Debug\net7.0\refint\02_SOLID_SRP.dll
+C:\Users\HansMattin-Lassei\Documents\Education\CMS22\cms22-object-oriented-analysis-design\lektion-3\02_SOLID_SRP\obj\Debug\net7.0\02_SOLID_SRP.pdb
+C:\Users\HansMattin-Lassei\Documents\Education\CMS22\cms22-object-oriented-analysis-design\lektion-3\02_SOLID_SRP\obj\Debug\net7.0\02_SOLID_SRP.genruntimeconfig.cache
+C:\Users\HansMattin-Lassei\Documents\Education\CMS22\cms22-object-oriented-analysis-design\lektion-3\02_SOLID_SRP\obj\Debug\net7.0\ref\02_SOLID_SRP.dll
